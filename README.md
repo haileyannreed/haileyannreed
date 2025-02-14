@@ -1,33 +1,43 @@
-<img align="right" height="200" src="https://media.licdn.com/dms/image/C5612AQF4TvQWrtreNg/article-cover_image-shrink_720_1280/0/1613055931244?e=2147483647&v=beta&t=8KudX_fg-XzcbqPe7qZBnyMJTFw_B5H8wO7tcNDvHfQ"  />
+<img align="center" height="200" src="https://github.com/haileyannreed/haileyannreed/blob/main/Black%20&%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true" width="900px" style="display: block; margin: 0 auto;" />
 
 ###
 
-###
-
-<h1 align="center">Hi, I'm Hailey 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h2>📌 About Me</h2>
+<p> Hi, I'm Hailey Reed! I'm a junior Computer Science major with a concentration in Artificial Intelligence 
+      and a minor in Mathematics.
+</p>
 
 ###
 
-<p align="left">Hi, I'm Hailey Reed! I'm a junior Computer Science major with a concentration in Artificial Intelligence and a minor in Mathematics. <br></p>
-
-<h4 align="left">📚 Currently, I'm:</h4>
-<p> - Conducting computer vision research and learning PyTorch for deep learning.<br>- Exploring quantitative finance and algorithmic trading.<br>- Building AI/ML projects to expand my GitHub portfolio.<br>
-<h4 align="left">📌 Looking for:</h4>
-<p>- Internships, research, or projects in AI/ML or quant finance.<br>- Opportunities to collaborate on AI and data-driven applications</p>
-
+<img align="right" height="350" src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/307126710_454734086688703_9086862365714466400_n.png?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3UCkwTAd5n4Q7kNvgHqc0sm&_nc_oc=AdiNBWNhFQADYPBi9KJCe4O9Xi3yzBl17bmdY-ZV7pk22t9VbESanGi9ouA65m5easJx4qfDq54QPocP-wslTJya&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=ABt0WoZB9ScA1N9ini4ZMi_&oh=00_AYCxtGXGAFwdCqIkCLFSPDrtY9sXOpCu8oxFAW4zTwdfpQ&oe=67B45B09"  />
+  
 ###
+
+<h3>🌱 Currently, I'm: </h3>
+<ul>
+<li>Conducting computer vision research and learning PyTorch for deep learning.</li>
+<li>Exploring quantitative finance and algorithmic trading.</li>
+<li>Building AI/ML projects to expand my GitHub portfolio.</li>
+</ul>
+
+<h3>🔍 Looking for:</h3>
+<ul>
+<li>Internships, research, or projects in AI/ML or quant finance.</li>
+<li>Opportunities to collaborate on AI and data-driven applications.</li>
+</ul>
 
 <h3 align="left">💻 Language and tools<br></h3>
 
-<p align="left">- Programming: Python, C, RISC-V, Haskell.<br>- AI/ML: PyTorch, OpenCV, NumPy, Pandas.<br>- Databases: SQL (Database Querying & Schema Construction), Relational Database Design, Transaction Processing.<br>- Other: Data Structures & Algorithms, NetworkX, Matplotlib.</p>
+<ul>
+<li>Programming: Python, C, RISC-V, Haskell.</li>
+<li>AI/ML: PyTorch, OpenCV, NumPy, Pandas.</li>
+<li>Databases: SQL (Database Querying & Schema Construction), Relational Database Design, Transaction Processing.</li>
+<li>Other: Data Structures & Algorithms, NetworkX, Matplotlib.</li>
+</ul>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
