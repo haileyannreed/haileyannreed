@@ -1,4 +1,4 @@
-<img align="center" height="200" src="https://github.com/haileyannreed/haileyannreed/blob/main/Black%20&%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true" width="900px" style="display: block; margin: 0 auto;" />
+
 
 ###
 
